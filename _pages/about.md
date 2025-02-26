@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I'm Tianxiang Fei, a third-year undergraduate at Sun Yat-sen University, school of electronics and communication engineering. I major in communication engineering and my GPA is 3.5 overall. My email is followed: feitx@mail2.sysu.edu.cn.
+My reasearch interests are mainly in Information Theory, Wireless Communications, Machine Learning and Statistical Learning Theory and Signal Processing. I'm now an intern student in Key Laboratory Of Advanced Intellisense Technology of Guangdong Province at Sun Yat-sen University， advised by Prof. Jun Hu and Prof. Lei Zhang. I'm looking for intern chance during the summer of 2025 and preparing to apply for graduate studies in the United States and Canada.
 
 A data-driven personal website
 ======
