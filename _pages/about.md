@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-About Me
-======
+
 Hi, I'm a third-year undergraduate student at Sun Yat-sen University, majoring in communication engineering. My research interests mainly lies in machine learning, wireless communication and sensing, and artificial intelligence and its application. I have previously interned at the Guangdong Provincial Key Laboratory of Advanced Intellisense Technology, Sun Yat-sen University, advised by Prof. Jun Hu, focusing on ZYNQ. I alse have interned at CPNT Lab, Sun Yat-sen University, advised by Prof. Shihai Sun, focusing on single-photon imaging and SPAD. Currently I am a research assistant under Prof. Lei Zhang, focusing on generative model and its application in signal and communication.
 My research interest mainly lies in wireless networks, integrated communication and sensing, IoT and embedded system which are relative to my major. Additionally, I am pretty interested in machine learning and artificail intelligence especially generative models. I am committed to applying machine learning and artificial intelligence tools in my major fields.
 I am looking for internship opportunity and I am preparing to apply for the M.S. degree and Ph.D. degree of the ECE program in 2026 Fall!
