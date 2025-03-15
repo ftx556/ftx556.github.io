@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Tianxiagn Fei"
 description              : &description "Tianxiang Fei's homepage"
 url                      : https://ftx556.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/ftx556.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ftx556/ftx556.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
