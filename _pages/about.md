@@ -21,7 +21,7 @@ Sun Yat-sen University
 
 B.E. in Communication Engineering  
 
-Overall GPA:3.5/4.0   
+Overall GPA:3.6/4.0   
 
 Everage score:85/100   
 
